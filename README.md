@@ -525,6 +525,6 @@ This project leverages several powerful technologies and APIs:
 
 # 👨‍💻 Author
 
-**Chetan D R**
+**Anusha K**
 
 If you found this project helpful, consider giving it a ⭐ on GitHub!
